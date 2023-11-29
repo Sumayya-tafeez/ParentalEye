@@ -16,6 +16,11 @@ IMPLEMENTATION:
 
 ![image](https://github.com/Sumayya-tafeez/ParentalEye/assets/115559166/a69aff5b-a5b5-4c56-a8fd-cbaae6299c5f)
 
+APPLICATIONS DOWNLOAD:
+
+![image](https://github.com/Sumayya-tafeez/ParentalEye/assets/115559166/83d3fffa-a3b0-490b-9f90-142c5b63e0a4)
+
+
 CHILD APP:
 ==========
 
