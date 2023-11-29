@@ -1,1 +1,1 @@
-# ParentalEye
+Parental Eye is a comprehensive parental control application designed to empower parents with enhanced monitoring and management features over their children's digital activities. This Android-based application provides real-time insights and control options to ensure a safer and more secure online experience for kids.
